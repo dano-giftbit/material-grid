@@ -1,7 +1,5 @@
 #[Material-Grid](https://github.com/Cleanshooter/material-grid)
 
-## dano-giftbit Fork
-
 ## Installation
 
 Material-Grid is available as an [npm package](https://www.npmjs.org/package/material-grid).
@@ -95,7 +93,7 @@ ReactDOM.render(
   document.getElementById('app')
 );
 ```
-## Implmentation
+## Implementation
 
 I've stripped out all non-essential CSS from the MDL distribution package so it only includes the CSS necessary to run the Grid. 
 
